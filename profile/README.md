@@ -5,4 +5,4 @@
 ### PODSTAWY PROGRAMOWANIA
 
 #### GRUPA DOKTORA INŻYNIERA PAWŁA ROGALIŃSKIEGO
-[Małgorzata Strusińska](https://github.com/gisiaa/PODSTAWY-PROGRAMOWANIA)
+* [Małgorzata Strusińska](https://github.com/gisiaa/PODSTAWY-PROGRAMOWANIA)
