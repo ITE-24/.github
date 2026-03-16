@@ -12,6 +12,8 @@
 ## ﾒ SEMESTR II
 
 ### [PO] PROGRAMOWANIE OBIEKTOWE
+
+#### ⤷ GRUPA MAGISTRA INŻYNIERA TOBIASZA PUŚLECKIEGO
 * [Maria Dudek, Małgorzata Strusińska, Sara Osińska](https://github.com/gisiaa/OceanEcosystem)
 
 ### *MIERNICTWO W INFORMATYCE I TELEKOMUNIKACJI 2*
