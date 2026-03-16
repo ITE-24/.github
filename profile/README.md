@@ -12,6 +12,7 @@
 ## ﾒ SEMESTR II
 
 ### [PO] PROGRAMOWANIE OBIEKTOWE
+* [Maria Dudek, Małgorzata Strusińska, Sara Osińska](https://github.com/gisiaa/OceanEcosystem)
 
 ### *MIERNICTWO W INFORMATYCE I TELEKOMUNIKACJI 2*
 
