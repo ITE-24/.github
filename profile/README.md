@@ -47,7 +47,7 @@
 * [Dawid Miniweski, Oleh Zavalka, Jakub Kret](https://drive.google.com/drive/u/1/folders/13CUtJhxbmMOeerGrrbCOMgjqj9TAny1q)
 
 #### ⤷ GRUPA PANI MAGISTER LIUDMYLY FILEVSKIEJ
-* [Małgorzata Strusińska]
+* [Małgorzata Strusińska] [SPRAWOZDANIA](https://github.com/ITE-24/FIZYKA-LF-MS)
 
 ### *LOGIKA UKŁADÓW CYFROWYCH*
 #### ⤷ GRUPA DOKTORA INŻYNIERA DARIUSZA BANASIAKA
