@@ -69,5 +69,7 @@
 ### [SK] [L] SIECI KOMPUTEROWE
 
 ### [BD] [L] BAZY DANYCH
+#### ⤷ GRUPA MAGISTRA INŻYNIERA ADAMA WŁODARCZYKA
+* [Małgorzata Strusińska](https://github.com/gisiaa/SQL-TASKS)
 
 ### [AIZO] [P] ALGORYTMY I ZŁOŻONOŚĆ OBLICZENIOWA
