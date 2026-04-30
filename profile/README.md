@@ -20,7 +20,10 @@
 ### [PO] [L/P] PROGRAMOWANIE OBIEKTOWE
 
 #### ⤷ GRUPA MAGISTRA INŻYNIERA TOBIASZA PUŚLECKIEGO
+##### ᯓ➤ PROJEKT #####
 * [Maria Dudek, Małgorzata Strusińska, Sara Osińska](https://github.com/gisiaa/OceanEcosystem)
+
+##### ᯓ➤ LABORATORIA #####
   
 #### ⤷ GRUPA MAGISTRA INŻYNIERA PAWŁA TAMY
 * [Dawid Miniewksi](https://github.com/ANOM0S/MatchmakingSystemSim)
@@ -35,6 +38,9 @@
 ## ﾒ SEMESTR III
 
 ### [JP] [L] JĘZYKI PROGRAMOWANIA
+
+#### ⤷ GRUPA DOKTORA INŻYNIERA MARCINA ŁOPUSZYŃSKIEGO
+* [Małgorzata Strusińska]()
 
 ### [NIDUC 2] [P] *NIEZAWODNOŚĆ I DIAGNOSTYKA UKŁADÓW CYFROWYCH 2*
 #### ⤷ GRUPA DOKTORA HABILITOWANEGO INŻYNIERA PROFESORA UCZELNI STANISŁAWA PIESTRAKA
