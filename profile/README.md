@@ -7,7 +7,7 @@
 #### ⤷ GRUPA DOKTORA INŻYNIERA PAWŁA ROGALIŃSKIEGO
 * [Małgorzata Strusińska](https://github.com/gisiaa/PODSTAWY-PROGRAMOWANIA)
 
-#### ⤷ GRPUA DOKTORA INŻYNIERA ROMANA PTAKA
+#### ⤷ GRUPA DOKTORA INŻYNIERA ROMANA PTAKA
 * [Dawid Miniewski](https://github.com/ANOM0S/Podstawy-programowania)
 
 ### [TI] *TECHNOLOGIE INFORMACYJNE*
@@ -38,7 +38,7 @@
 ### [NP] *NARZĘDZIA PROGRAMISTYCZNE*
 
 ### *FIZYKA*
-#### ⤷ GRUPA DOKTOR AINŻYNIERA TRISTANA SMOŁKI (<3)
+#### ⤷ GRUPA DOKTORA INŻYNIERA TRISTANA SMOŁKI
 * [Dawid Miniweski, Oleh Zavalka, Jakub Kret](https://drive.google.com/drive/u/1/folders/13CUtJhxbmMOeerGrrbCOMgjqj9TAny1q)
 
 ### *LOGIKA UKŁADÓW CYFROWYCH*
