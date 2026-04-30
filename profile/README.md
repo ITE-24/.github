@@ -49,7 +49,7 @@
 #### ⤷ GRUPA PANI MAGISTER LIUDMYLY FILEVSKIEJ
 * [Małgorzata Strusińska] [SPRAWOZDANIA](https://github.com/ITE-24/FIZYKA-LF-MS)
 
-### *LOGIKA UKŁADÓW CYFROWYCH*
+### [LUC] *LOGIKA UKŁADÓW CYFROWYCH*
 #### ⤷ GRUPA DOKTORA INŻYNIERA DARIUSZA BANASIAKA
 * [Dawid Miniewskim, Krzyztof Różaniki](https://drive.google.com/drive/u/1/folders/1eefkPWZdsviKtN_u22bSc6wuQbQ4lemC)
 
