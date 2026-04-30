@@ -36,13 +36,18 @@
 ### [NIDUC 2] *NIEZAWODNOŚĆ I DIAGNOSTYKA UKŁADÓW CYFROWYCH 2*
 #### ⤷ GRUPA DOKTORA HABILITOWANEGO INŻYNIERA PROFESORA UCZELNI STANISŁAWA PIESTRAKA
 * [Dawid Miniewski, ---](https://github.com/ANOM0S/NiDUC-Project) [SPRAWOZDANIE](https://drive.google.com/drive/u/1/folders/1TLsyaNPTqEDQsS9M88RUybubYv3ufezU)
-* [Antoni Pszenica, Małgorzata Strusińska, Michał Tkaczyk] [PREZENTACJA](https://canva.link/2ymxkutwx3ls8m3)
+* [Antoni Pszenica, Małgorzata Strusińska, Michał Tkaczyk] [PREZENTACJA](https://canva.link/2ymxkutwx3ls8m3) [SPRAWOZDANIE](https://github.com/ITE-24/SPRAWOZDANIE-NIDUC---MAM/blob/main/SPRAWOZDANIE%20NIDUC.pdf)
 
-### [NP] *NARZĘDZIA PROGRAMISTYCZNE*
+### [PPS] *PODSTAWY PRZETWARZANIA SYGNAŁÓW*
+#### ⤷ GRUPA DOKTORA INŻYNIERA PIOTRA CISKOWSKIEGO
+* [Małgorzata Strusińska] [PREZENTACJA - dla chętnych](https://canva.link/yjx55wael5a64wf)
 
 ### *FIZYKA*
 #### ⤷ GRUPA DOKTORA INŻYNIERA TRISTANA SMOŁKI
 * [Dawid Miniweski, Oleh Zavalka, Jakub Kret](https://drive.google.com/drive/u/1/folders/13CUtJhxbmMOeerGrrbCOMgjqj9TAny1q)
+
+#### ⤷ GRUPA PANI MAGISTER LIUDMYLY FILEVSKIEJ
+* [Małgorzata Strusińska]
 
 ### *LOGIKA UKŁADÓW CYFROWYCH*
 #### ⤷ GRUPA DOKTORA INŻYNIERA DARIUSZA BANASIAKA
