@@ -26,6 +26,9 @@
 #### ⤷ GRUPA MAGISTRA INŻYNIERA MARKA MICHALAKA
 * [Dawid Miniewski, Krzysztof Różaniski](https://drive.google.com/drive/u/1/folders/140shAIRwOHFxNbuIn0NtP89GNsrG8CHS)
 
+#### ⤷ GRUPA MAGISTRA INŻYNIERA ARTURA FLORKA
+* [Małgorzata Strusińska, Sara Osińska](https://github.com/ITE-24/SPRAWOZDANIA-MIERNICTWO---GR-14---AF)
+
 ## ﾒ SEMESTR III
 
 ### [JP] JĘZYKI PROGRAMOWANIA
