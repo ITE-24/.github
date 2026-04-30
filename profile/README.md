@@ -70,6 +70,11 @@
 
 ### [BD] [L] BAZY DANYCH
 #### ⤷ GRUPA MAGISTRA INŻYNIERA ADAMA WŁODARCZYKA
+
+##### ᯓ➤ LABORATORIA #####
+
 * [Małgorzata Strusińska](https://github.com/gisiaa/SQL-TASKS)
+
+##### ᯓ➤ MINI-PROJEKT #####
 
 ### [AIZO] [P] ALGORYTMY I ZŁOŻONOŚĆ OBLICZENIOWA
