@@ -24,6 +24,7 @@
 * [Maria Dudek, Małgorzata Strusińska, Sara Osińska](https://github.com/gisiaa/OceanEcosystem)
 
 ##### ᯓ➤ LABORATORIA #####
+* [Małgorzata Strusińska](https://github.com/gisiaa/JAVA-TASKS-2)
   
 #### ⤷ GRUPA MAGISTRA INŻYNIERA PAWŁA TAMY
 * [Dawid Miniewksi](https://github.com/ANOM0S/MatchmakingSystemSim)
